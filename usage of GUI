@@ -1,0 +1,10 @@
+Run the main code on any python compiler.
+Download required libraries.
+Once you run the code, a GUi will pop up which will be your user interface.
+In GUI, enter IP address of esp32_cam, u get upon running the basic example code of esp32_cam module on arduino ide by connecting the module.
+Copy that IP adress and paste it in the GUI where it is asked.
+Then paste deployment id or url as asked, after creating a google script in your specific google drive to download and saving of image as your requirements.
+Then press Connect button in GUI to connect the esp32_cam module.
+Then live streaming is enabled and camera is connected successfully.
+To capture the image select the take photo option to capture the image, and automatically image will saved in google drive.
+If u want to click or capture images automatically, enter the time in seconds u want each photo to be captured. 
